@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm a passionate AI-ML engineer and you can judge me by my code repos.
 
+# ⭐ Interests:
+<ol>
+  <li>2D and 3D Computer Vision</li>
+  <li>Generative AI</li>
+</ol>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parth-deshmukh-901867236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthd7122@gmail.com) 
