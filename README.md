@@ -6,6 +6,8 @@ I'm a passionate AI-ML engineer and you can judge me by my code repos.
   <li>2D and 3D Computer Vision</li>
   <li>Generative AI</li>
 </ol>
+<img src="https://github.com/Parth-D3/Parth-D3/blob/main/github_gif.gif" alt="Demo" style="width:100% ;"/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parth-deshmukh-901867236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthd7122@gmail.com) 
