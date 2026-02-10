@@ -5,6 +5,10 @@ I'm a passionate AI-ML engineer and you can judge me by my code repos.
 <ol>
   <li>2D and 3D Computer Vision</li>
   <li>Generative AI</li>
+  <li>Federated Learning</li>
+  <li>AI and autonomous driving</li>
+  <li>Reinforcement Learning</li>
+  <li>Knowledge Graphs and AI</li>
 </ol>
 <img src="https://github.com/Parth-D3/Parth-D3/blob/main/github_gif.gif" alt="Demo" style="width:100% ;"/>
 
